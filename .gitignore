@@ -1,0 +1,4 @@
+digit-recognizer/*.csv
+humpback-whale-identification/*.csv
+humpback-whale-identification/test/
+humpback-whale-identification/test.zip
